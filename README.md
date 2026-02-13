@@ -5,7 +5,7 @@ Keyboard Navigation | Gaze-Triggered System | Reactive Environment
 
 ---
 ## Demo Video
-[Watch here] 
+[Watch here] (https://youtu.be/kKye1zPl-6I)
 
 ---
 
@@ -139,4 +139,5 @@ Vignette 효과를 통해 장면이 마무리됩니다.
 - Unity 입문 단계에서 제작
 - 1인칭 시뮬레이션 형식
 - 개념과 시스템 구조의 연결을 실험한 작업
+
 
